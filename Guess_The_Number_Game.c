@@ -1,4 +1,4 @@
-/*We will be writing a program that generates a random number and ask the player to guess it.
+/*I have written a program that generates a random number and ask the player to guess it.
 If the player's guess is higher than the generated number then we will print 'Lower number please' and
 if the player's guess is lower than the generated number then we will print 'Higher number please' and
 if the player's guesses the right number then we will print 'the number of guesses player used to arrive at the number' */
